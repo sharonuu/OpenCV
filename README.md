@@ -9,3 +9,9 @@ DataWhale机器视觉基础及OpenCV框架使用
 - 图像平移、旋转原理介绍
 - 向前映射、向后映射比较
 - 图像平移、旋转、仿射、透视基于OpenCV的实现
+
+## Task03 彩色空间互转
+- 颜色空间介绍
+- RGB与HSV模型介绍
+- RGB与HSV相互转换代码实现(Python)
+- 基于OpenCV的实现
